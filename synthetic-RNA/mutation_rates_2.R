@@ -1,6 +1,6 @@
 setwd("~/Desktop/P0 TUT specificty/Qiagen_Dec2020/synthetic-RNA/")
 require(data.table)
-iso_summary <- fread(file = "11miRNA_4methods.isomir.sequence_info.tsv", header = T)
+iso_summary <- fread(file = "11miRNA_4methods.isomir.sequence_info.tsv.gz", header = T)
 iso_summary$SAMPLE <- gsub(".fastq_ready","",iso_summary$SAMPLE)
 
 unique(iso_summary$SAMPLE)
