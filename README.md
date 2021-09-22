@@ -4,14 +4,14 @@
 
 ```
 Example 1: Templated isomiR (miR-148b-3p)
-     TCAGTGCATCACAGAACTTTGTc
+     TCAGTGCATCACAGAACTTTGTc      read obtained
      |||||||||||||||||||||||
-GAAAGTCAGTGCATCACAGAACTTTGTCTCGA
+GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference
  ```
  
  ```
 Example 2: Untemplated  isomiR (miR-148b-3p)
-     TCAGTGCATCACAGAACTTTGTt
+     TCAGTGCATCACAGAACTTTGTt      read obtained
      ||||||||||||||||||||||0
-GAAAGTCAGTGCATCACAGAACTTTGTCTCGA
+GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference
  ```
