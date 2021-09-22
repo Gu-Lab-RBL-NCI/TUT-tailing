@@ -15,3 +15,11 @@ Example 2: Untemplated  isomiR (miR-148b-3p)
      ||||||||||||||||||||||0
 GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference
  ```
+
+### Example 3: Untemplated  isomiR (miR-148b-3p) 
+  ```
+    TGGAATGTAAAGAAGTATGTATt      read obtained
+    ||||||||||||||||||||||0
+GCTATGGAATGTAAAGAAGTATGTATCTCA  genomic reference paralog 1
+GCTATGGAATGTAAAGAAGTATGTATTTTT  genomic reference paralog 2
+ ```
