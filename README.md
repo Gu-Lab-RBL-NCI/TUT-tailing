@@ -11,7 +11,7 @@ GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference
 ### Example 2: Untemplated  isomiR (miR-148b-3p)
  ```
       TCAGTGCATCACAGAACTTTGTt      read obtained
-     ||||||||||||||||||||||0
+      ||||||||||||||||||||||0
 GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference 
  ```
 
