@@ -12,7 +12,7 @@ GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference
  ```
      TCAGTGCATCACAGAACTTTGTt      read obtained
      ||||||||||||||||||||||0
-GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference
+GAAAGTCAGTGCATCACAGAACTTTGTCTCGA  genomic reference 
  ```
 
 ### Example 3: Templated  isomiR with multiple paralogs (miR-1-3p) 
